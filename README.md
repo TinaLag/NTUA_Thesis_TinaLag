@@ -58,7 +58,7 @@ $ git push                       # asks for username and password (password = gi
 
 # They are asked for git commit if device hasn't been connected to git account before:
 ```
-$ git config --global user.email "tina.lagodonti@gmail.com"
+$ git config --global user.email "xxx@gmail.com"
 $ git config --global user.name "TinaLag"
 ```
 
